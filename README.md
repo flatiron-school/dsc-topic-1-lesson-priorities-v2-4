@@ -13,7 +13,7 @@
 
 # 2nd Priority:
 - PEP8
-> Althought PEP8 guidelines 2nd Priority, it is important to grow your familiarity with PEP8 throughout the program. Doing so will make your code look nice when you show off in interviews.
+> Although PEP8 guidelines are 2nd Priority, it is important to grow your familiarity with PEP8 throughout the program. Doing so will make your code look nice when you show off in interviews.
 
 # Appendix
 
